@@ -1,0 +1,47 @@
+.header{
+    font-style: italic;
+    text-decoration:underline brown;
+}
+
+.labeltext{
+    color: black;
+    margin-right: 10px;
+    font-weight:medium;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.formContainer{
+    margin-bottom: 90px;
+}
+
+.inputBox{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 30px;
+}
+.bgContainer{
+    text-align: center;
+    margin-left:150px;
+    margin-right: 150px;
+}
+.inputField{
+    width: 800px;
+    height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+    border-radius: 5px;
+    padding: 5px;
+    background-color:skyblue;
+    border-width: 0px;
+   width: 80px;
+    height: 40px;
+    color:#ffffff;
+    font-size: medium;
+    cursor: pointer;
+
+}
